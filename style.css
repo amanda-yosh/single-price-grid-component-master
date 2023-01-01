@@ -1,0 +1,21 @@
+:root {
+  /* COLORS */
+  /* Primary */
+  --white-color: #ffffff;
+  --cyan-color: hsl(179, 62%, 43%);
+  --bright-yellow-color: hsl(71, 73%, 54%);
+  /* color: hsl(228, 45%, 44%); */
+
+  /* Neutral */
+  --light-gray-color: hsl(204, 43%, 93%);
+  --grayish-blue-color: hsl(218, 22%, 67%);
+}
+
+.price-grid-component .first {
+  background-color: var(--white-color);
+};
+
+.price-grid-component .second {
+  background-color: var(--cyan-color);
+}
+  /* .third {} */
